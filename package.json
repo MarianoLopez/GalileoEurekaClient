@@ -1,0 +1,24 @@
+{
+  "name": "galileo-api",
+  "version": "0.0.0",
+  "description": "express api + gpio (mraa galileo v.1) + eureka client",
+  "main": "main.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "eureka-js-client": "^4.4.2",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "gpio",
+    "eureka",
+    "express",
+    "galileo"
+  ],
+  "author": "Lopez Mariano",
+  "license": "ISC"
+}
